@@ -2,7 +2,7 @@
 format:
   revealjs:
     touch: true
-    embed-resources: true
+    embed-resources: false
     controls: true
     transition: fade
     transition-speed: fast
